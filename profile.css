@@ -1,0 +1,21 @@
+body{
+    background-color: green;
+}
+h1 , h2 {
+    color: black;
+    background-color: pink;
+}
+p{
+    color: red;
+}
+li {
+    color: green;
+}
+img{
+    display: block;
+    margin: auto;
+}
+a{
+    color: blue ;
+    color: black visited;
+}
